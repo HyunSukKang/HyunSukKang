@@ -13,3 +13,9 @@ int main(){
 
   return 0;
 }
+
+void sub2() {
+  printf("\nGo Home\n");
+} 
+
+
