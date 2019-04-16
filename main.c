@@ -2,7 +2,9 @@
 
 void sub1();
 void sub2();
-void sub3();
+void sub3(){
+  printf("Hello my name is hs\n");
+}
 void sub4();
 
 int main(){
