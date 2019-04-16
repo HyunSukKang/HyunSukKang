@@ -14,9 +14,6 @@ int main(){
   sub3();
   sub4();  
 
-
-
-}
   return 0;
 }
 
