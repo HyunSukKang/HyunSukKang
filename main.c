@@ -17,7 +17,7 @@ int main(){
   sub4();  
   
   printf("OSS2019\n");
-   
+  printf("commit update\n"); 
   return 0;
 }
 
