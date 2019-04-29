@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 void sub1();
-void sub2();
+void sub2(){
+  printf("New Commit\n");
+}
 void sub3(){
   printf("Hello my name is hs\n");
 }
