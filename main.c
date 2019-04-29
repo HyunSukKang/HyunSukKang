@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-void sub1();
+void sub1(){
+  printf("1 + 2 = 3\n");
+}
 void sub2(){
   printf("New Commit\n");
 }
