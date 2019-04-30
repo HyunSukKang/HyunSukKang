@@ -20,6 +20,8 @@ int main(){
   sub3();
   sub4();  
   
+  printf("Hello World!\n");
+  printf("hahahahahah\n");
   printf("OSS2019\n");
   printf("commit update\n"); 
   printf("new\n");
